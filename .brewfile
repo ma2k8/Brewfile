@@ -1,0 +1,195 @@
+
+# tap repositories and their packages
+
+## caskroom/cask
+tap caskroom/cask
+install brew-cask
+
+## hammer/cdh
+tap hammer/cdh
+install cdh-hadoop
+install cdh-mr1
+
+## homebrew/boneyard
+tap homebrew/boneyard
+install pyenv-pip-rehash
+
+## homebrew/dupes
+tap homebrew/dupes
+install zlib
+
+## homebrew/python
+tap homebrew/python
+install numpy
+
+## homebrew/science
+tap homebrew/science
+install opencv --with-java
+
+## josegonzalez/php
+tap josegonzalez/php
+install php55-mcrypt
+install php55-opcache
+install php55-xdebug
+install php55
+install phpmyadmin
+install phpunit
+
+## rcmdnk/file
+tap rcmdnk/file
+install brew-file
+
+## sanemat/font
+tap sanemat/font
+install ricty
+
+# Other Homebrew packages
+install ack
+install android-ndk
+install android-sdk
+install ant
+install autoconf
+install autojump
+install automake
+install bison
+install boot2docker
+install brew-gem
+install cairo
+install cloog
+install cmake
+install colordiff
+install colortail
+install coreutils
+install cscope
+install czmq
+install docker
+install ecj
+install eigen
+install fontconfig
+install fontforge
+install freetype
+install gcc
+install gdbm
+install gettext
+install ghc
+install git
+install glib
+install gmp
+install go
+install gobject-introspection
+install gradle
+install graphviz
+install hadoop
+install harfbuzz
+install htop-osx
+install hydra
+install icu4c
+install ilmbase
+install isl
+install jenkins
+install jpeg
+install jq
+install libevent
+install libffi
+install libmpc
+install libpng
+install libsodium
+install libtiff
+install libtool
+install libyaml
+install llvm
+install lua
+install macvim --with-lua
+install mahout
+install maven
+install mcrypt
+install mercurial
+install mhash
+install mpfr
+install mysql
+install nkf
+install node
+install openexr
+install openssl
+install ossp-uuid
+install pango
+install pcre
+install pixman
+install pkg-config
+install protobuf
+install pyenv
+install pyenv-virtualenv
+install python
+install rbenv
+install rbenv-gem-rehash
+install rbenv-gemset
+install readline
+install reattach-to-user-namespace
+install redis
+install ruby
+install ruby-build
+install sbt
+install scala
+install sdl
+install sqlite
+install the_silver_searcher
+install tig
+install tmux
+install tomcat
+install tree
+install typesafe-activator
+install unixodbc
+install vim
+install wget
+install xz
+install zeromq
+install zsh
+
+# App Store applications
+appstore 1Password
+appstore Alfred
+appstore App Language Chooser
+appstore CheatSheet
+appstore Clean
+appstore Coda 2
+appstore Coffitivity
+appstore Color Maker
+appstore Dash
+appstore Deliveries
+appstore DockView
+appstore Echo
+appstore Evernote
+appstore FreeMan
+appstore GarageBand
+appstore GeekTool
+appstore Growl
+appstore HardwareGrowler
+appstore iMovie
+appstore Imposition Studio
+appstore iPhoto
+appstore JPEGmini Lite
+appstore Keynote
+appstore LIMBO
+appstore LimeChat
+appstore LINE
+appstore Living Wallpaper HD free
+appstore Mactracker
+appstore Magnet
+appstore MailTab Pro for Gmail
+appstore MenuTab Pro for Facebook
+appstore MiniUsage
+appstore Pomodoro Timer
+appstore Reeder
+appstore Remote Desktop - VNC
+appstore Skitch
+appstore The Unarchiver
+appstore Time Machine Backup Scheduler
+appstore Translate Tab
+appstore Transmit
+appstore TunesArt
+appstore Twitter
+appstore Type2Phone
+appstore Typist
+appstore Wallpapers
+appstore Who's On My WiFi
+appstore Xcode
